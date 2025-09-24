@@ -1,9 +1,5 @@
----
-
-# 1) Prerequisites
-
-* **Node.js 18+** (20 LTS recommended)
-* A terminal + a code editor
+- **Node.js 18+** (20 LTS recommended)
+- A terminal + a code editor
 
 ---
 
