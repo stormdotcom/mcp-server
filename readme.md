@@ -1,4 +1,4 @@
-- **Node.js 18+** (20 LTS recommended)
+- **Node.js 22.14.0+** (22+ LTS recommended)
 - A terminal + a code editor
 
 ---
