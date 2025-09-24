@@ -1,0 +1,24 @@
+{
+	"servers": {
+		"test-mcp-video-server": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"build/server.js"
+			],
+			"cwd": "${workspaceFolder}",
+			"dev": {
+				"watch": "build/**/*.js",
+				"debug": {
+					"type": "node"
+				}
+			}
+		},
+		"my-mcp-server-3f14f379": {
+			"type": "stdio",
+			"command": "mcp-test",
+			"args": []
+		}
+	},
+	"inputs": []
+}
