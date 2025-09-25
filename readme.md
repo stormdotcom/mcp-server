@@ -2,6 +2,9 @@
 - A terminal + a code editor
 
 ---
+# 1) What is MCP in simple terms?
+
+A: MCP is a protocol that lets AI models interact with external tools and data through a standardized interface. It acts like a universal adapter so LLMs don’t have to hallucinate—they can fetch accurate, real-time information.
 
 # 2) Create the project
 
